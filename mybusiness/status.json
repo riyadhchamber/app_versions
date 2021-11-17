@@ -1,8 +1,8 @@
 {
     "enabled": false,
     "data": {
-        "title": "App Maintanance",
-        "msg":"we are currently improving your app experience please try again later...",
-        "btn": "OK"
+        "title": "صيانة التطبيق",
+        "msg":"نحن نعمل حاليًا على تحسين تجربة تطبيقك ، يرجى المحاولة مرة أخرى لاحقًا ...",
+        "btn": "تطبيق وثيقة"
     }
 }
