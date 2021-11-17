@@ -1,9 +1,22 @@
 {
     "enabled": false,
+    "current": "3.5.4",
     "data": {
         "title": "صيانة التطبيق",
         "msg":"نحن نعمل حاليًا على تحسين تجربة تطبيقك ، يرجى المحاولة مرة أخرى لاحقًا ...",
         "btn": "تطبيق وثيقة",
         "action": "close"
     }
+    "majorMsg": {
+        "title": "Important App Update",
+        "msg": "Please update your app to the latest version to continue using it.",
+        "btn": "Download"
+    },
+    "minorMsg": {
+        "title": "An App Update available",
+        "msg": "There is a new version available would you like to get it now?",
+        "btn": "Download",
+        "skip": "Not Now"
+    }
+    
 }
