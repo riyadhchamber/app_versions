@@ -6,7 +6,7 @@
         "msg":"نحن نعمل حاليًا على تحسين تجربة تطبيقك ، يرجى المحاولة مرة أخرى لاحقًا ...",
         "btn": "تطبيق وثيقة",
         "action": "close"
-    }
+    },
     "majorMsg": {
         "title": "Important App Update",
         "msg": "Please update your app to the latest version to continue using it.",
